@@ -15,7 +15,7 @@ body {
   flex-direction: row;
   margin-top: 42px;
   justify-content: space-between;
-  padding: 0 30%;
+  padding: 0 10%;
 }
 
 .hero-img {
